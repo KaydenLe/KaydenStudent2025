@@ -5,4 +5,4 @@ description: Home Page
 hide: true
 ---
 
-My journey starts here
+Kaydens journey starts here
