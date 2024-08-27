@@ -1,8 +1,8 @@
 ---
 layout: base
-title: Student Home 
+title: Kayden Home
 description: Home Page
 hide: true
 ---
 
-My journey starts here.
+My journey starts here
