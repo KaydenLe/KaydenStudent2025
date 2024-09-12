@@ -25,7 +25,7 @@ My Schedule:
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f8ff;
+            background-color: #234b75;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -80,7 +80,7 @@ My Schedule:
     </div>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            const correctBeach = 'del mar';
+            const correctBeach = 'Scripps';
             const submitButton = document.getElementById('submit-guess');
             const hintParagraph = document.getElementById('hint');
 
@@ -98,9 +98,11 @@ My Schedule:
 
             function getHint(guess) {
                 const hints = [
-                    'It is a beach located in a city known for its fairgrounds and horse racing.',
-                    'It starts with "Del" and ends with "Mar".',
-                    'The name has two words, and it is not La Jolla or Mission Beach.'
+                    'It is a beach near La Jolla.',
+                    'It has a pier.',
+                    'It is below the Birch Aquarium.',
+                    'Its next to a research facility.',
+                    'Its next to Blacks beach.',
                 ];
 
                 return hints[Math.floor(Math.random() * hints.length)];
@@ -109,3 +111,4 @@ My Schedule:
     </script>
 </body>
 </html>
+

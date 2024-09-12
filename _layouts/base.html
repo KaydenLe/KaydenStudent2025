@@ -4,13 +4,36 @@
 
 {% if site.remote_theme contains 'minima' %}
   {%- include theme/minima/base.html -%}
+  <style>
+    body { background-color: navy; }
+  </style>
 {% elsif site.remote_theme contains 'midnight' %}
   {%- include theme/midnight/base.html -%}
+  <style>
+    body { background-color: navy; }
+  </style>
 {% elsif site.remote_theme contains 'dinky' %}
   {%- include theme/dinky/base.html -%}
+  <style>
+    body { background-color: navy; }
+  </style>
 {% elsif site.remote_theme contains 'time-machine' %}
   {%- include theme/time-machine/base.html -%}
+  <style>
+    body { background-color: navy; }
+  </style>
 {% elsif site.remote_theme contains 'cayman' %}
   {%- include theme/cayman/base.html -%}
+  <style>
+    body { background-color: navy; }
+  </style>
+{% endif %}
+
 {% endif %}
 </html>
+
+<style>
+  body {
+    background-color: blue;
+  }
+</style>
