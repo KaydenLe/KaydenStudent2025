@@ -106,6 +106,7 @@ hide: true
     </ul>
 
     <img width="380" alt="Screenshot 2024-09-13 at 9 17 43 AM" src="https://github.com/user-attachments/assets/3210c6a8-4dd2-4288-8e3f-a8a43856d709">
+    <img width="253" alt="Screenshot 2024-09-13 at 9 18 31 AM" src="https://github.com/user-attachments/assets/97e9acbe-1688-4314-9a49-6d61fb1e3782">
 
 
     <h2>Favorite top 3 movies:</h2>
