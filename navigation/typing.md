@@ -5,13 +5,10 @@ search_exclude: true
 permalink: /typing/
 ---
 
-```html
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Typing Game</title>
     <style>
         body {
             font-family: Arial, sans-serif;
