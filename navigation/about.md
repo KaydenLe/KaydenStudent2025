@@ -1,18 +1,23 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+## Sports:
+Water Polo and Swimming
 
-## About Me:
- Growing up I never liked staying inside cause to me it’s just too boring and by going outside it created a great escape. I like hiking and mountain biking in my freetime and exploring nature. Mountain biking was a big part of my life growing up as I was a sponsored athlete until 2021 and an accident. I still occasionally go mountain biking and hiking at least a couple times a month because the planet is literally a playground and it depends what you are capable of doing which is represented by the 1 and second and 4 pictures. The first picture represents my love for going to the beach. As I have lived in San Diego for most of my life, I have always loved the beach. I’m on the swim team and so sometimes at the beach I swim and surf. I also like fishing as I will fish occasionally and sometimes if I catch a good fish I will eat but most fish I throw back into the water and this is represented through the 5th photo. The last picture represents how I like going sightseeing with my friends. I will drive and walk anywhere just for the view even though I will be there for a couple minutes. Mainly I like hanging out with my friends as they have helped me in my life a lot and they are the people that have helped me become the person I am today.
+## Freetime:
+Hanging out with friends or watching movies
 
-My Schedule:
-1st Period: AP CSA
-2nd Period: AP GOV.
-3rd Period: EXPOS
-4th Period: Business Law
-5th Period: Off Roll
+## Favorite top 3 movies:
+Tron, Cars, Surf up
+
+## My favorite things:
+Mountain biking and surfing
+
+## Culture and background
+Im Vietnamese and I've lived in Vietnam and Boston
+
 
 # Guess My favorite beach
 

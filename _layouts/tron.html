@@ -1,0 +1,50 @@
+---
+layout: page 
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <style>
+        body {
+            font-family: monospace;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(20, 20px);
+            grid-template-rows: repeat(10, 20px);
+            gap: 1px;
+        }
+        .cell {
+            width: 20px;
+            height: 20px;
+            background-color: lightgrey;
+        }
+        .player1 {
+            background-color: blue;
+        }
+        .player2 {
+            background-color: red;
+        }
+        .trail1 {
+            background-color: lightblue;
+        }
+        .trail2 {
+            background-color: lightcoral;
+        }
+    </style>
+</head>
+<body>
+    <h1>{{ page.title }}</h1>
+    <!-- This inserts content from the tron.md page -->
+    {{ content | markdownify }}
+
+    <!-- Display the Tron game grid -->
+    <div class="grid" id="grid"></div>
+
+    <!-- Link to external JavaScript file -->
+    <script src="/assets/js/tron.js"></script>
+</body>
+</html>
