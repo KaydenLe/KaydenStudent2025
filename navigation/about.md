@@ -90,8 +90,10 @@ hide: true
         <li>Water Polo</li>
         <li>Swimming</li>
     </ul>
-    
+
     <img width="269" alt="Screenshot 2024-09-13 at 9 15 36 AM" src="https://github.com/user-attachments/assets/a5018f45-7433-4ace-8eae-be1d076831cc">
+    <img width="263" alt="Screenshot 2024-09-13 at 9 16 31 AM" src="https://github.com/user-attachments/assets/3a0e043e-d8b7-4f09-b108-c8eaf02fe562">
+
 
     <h2>Freetime:</h2>
     <p>Hanging out with friends or watching movies</p>
