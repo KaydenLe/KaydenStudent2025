@@ -105,6 +105,9 @@ hide: true
         <li>Researching about cars</li>
     </ul>
 
+    <img width="380" alt="Screenshot 2024-09-13 at 9 17 43 AM" src="https://github.com/user-attachments/assets/3210c6a8-4dd2-4288-8e3f-a8a43856d709">
+
+
     <h2>Favorite top 3 movies:</h2>
     <ul>
         <li>Tron</li>
