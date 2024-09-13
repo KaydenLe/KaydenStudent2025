@@ -13,10 +13,12 @@ Hanging out with friends or watching movies
 Tron, Cars, Surf up
 
 ## My favorite things:
-Mountain biking and surfing
+Mountain biking and surfing and researching about cars
 
 ## Culture and background
 Im Vietnamese and I've lived in Vietnam and Boston
+
+
 
 
 # Guess My favorite beach
