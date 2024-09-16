@@ -13,11 +13,12 @@ hide: true
 </head>
 <body>
 
-    <label for="md-files">Choose a game:</label>
+    <label for="md-files">Choose a file:</label>
     <select id="md-files" onchange="navigateToFile()">
         <option value="">--Select an option--</option>
         <option value="{{ '/tron/' | relative_url }}">Tron</option> <!-- Updated to use the correct path -->
         <option value="{{ '/typing/' | relative_url }}">Typing Game</option> <!-- Adjusted for possible .html output -->
+        <option value="{{ '/pair/' | relative_url }}">Pair Programming</option> <!-- Adjusted for possible .html output -->
     </select>
 
     <script>
