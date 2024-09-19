@@ -6,7 +6,6 @@ permalink: /typing/
 ---
 
 <html lang="en">
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
@@ -31,8 +30,7 @@ permalink: /typing/
             margin-top: 20px;
         }
     </style>
-</head>
-<body>
+
     <h1>Typing Game</h1>
     <div id="text-container">
         <p id="text-to-type">The quick brown fox jumps over the lazy dog.</p>
@@ -96,5 +94,3 @@ permalink: /typing/
             }
         });
     </script>
-</body>
-</html>

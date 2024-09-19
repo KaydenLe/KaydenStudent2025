@@ -6,7 +6,6 @@ permalink: /pair/
 ---
 
 <html lang="en">
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Favorite Cultural Foods</title>
@@ -91,8 +90,6 @@ permalink: /pair/
             display: none;
         }
     </style>
-</head>
-<body>
     <div class="container">
         <h1>Favorite Cultural Foods</h1>
 
@@ -180,5 +177,3 @@ permalink: /pair/
             }
         }
     </script>
-</body>
-</html>
