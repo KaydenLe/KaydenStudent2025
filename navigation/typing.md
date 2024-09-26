@@ -94,4 +94,3 @@ permalink: /typing/
             }
         });
     </script>
-test
